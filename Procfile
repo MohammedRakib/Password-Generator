@@ -1,1 +1,1 @@
-webapp: gunicorn Password_Generator_Proj.wsgi
+webapp: gunicorn Password_Generator.wsgi
